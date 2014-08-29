@@ -1,0 +1,18 @@
+{
+  "name": "hookah",
+  "version": "0.0.0",
+  "description": "A transform stage for web hooks",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "main": "index.js",
+  "author": "Prashant Singh",
+  "license": "BSD New",
+  "dependencies": {
+    "body-parser": "^1.6.6",
+    "express": "^4.8.6",
+    "async": "^0.9.0",
+    "request": "^2.40.0",
+    "morgan": "^1.2.3"
+  }
+}
